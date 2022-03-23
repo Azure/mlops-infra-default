@@ -1,0 +1,14 @@
+variables:
+
+  # DEV Environment
+  ENVIRONMENT: {{ cookiecutter.envoirnment }}
+  RESOURCE_GROUP: {{ cookiecutter.resource_group }}
+  LOCATION: {{ cookiecutter.location }}
+  NAMESPACE: {{ cookiecutter.namespace }}
+  SERVICECONNECTION_RG: conn-mlops-sub-infra
+  SERVICECONNECTION_WS: conn-mlops-aml-bsc-dev-tmpl
+  AMLWORKSPACE: aml$(NAMESPACE)
+  STORAGEACCOUNT: sa$(NAMESPACE)
+  KEYVAULT: kv$(NAMESPACE)
+  APPINSIGHTS: ai$(NAMESPACE)
+  CONTAINERREGISTRY: cr$(NAMESPACE)
