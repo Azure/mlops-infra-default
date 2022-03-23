@@ -1,3 +1,7 @@
 {
-    "directory": ".cloud"
+    "directory": ".cloud",
+    "envoirnment": ["dev", "dev/prod", "dev/test/prod"],
+    "resource_group": "rg-mlops-template-dev-001",
+    "location": "westeurope",
+    "namespace": "mlopsdevtmpl"
 }
