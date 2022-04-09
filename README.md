@@ -1,14 +1,23 @@
-# Project
+# Azure MLOps (v2) solution accelerator: Infrastructure
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository includes all infrastructure deployed as the outer loop from the [MLOps v2](https://github.com/Azure/mlops-v2) solution accelerator.
 
-As the maintainer of this project, please make a few updates:
+The repo itself functions as a standalone entity that agnosticly holds all infrastructure requirements for each individual architectual pattern.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+
+## 📐 Pattern Architectures: Key concepts
+
+| Link                                                    | AI Pattern                                                              |
+| ------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Pattern AML CML](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_CML_Architecture_v0.7.jpg) | Azure Machine Learning - Classical Machine Learning                     |
+| [Pattern AML CV](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_SupervisedCV_Architecture_v0.5.jpg)                                                 | Azure Machine Learning - Computer Vision                                |
+| [TBD]                                                   | Azure Machine Learning - Natural Language Provessing                    |
+| [TBD]                                                   | Azure Machine Learning / Azure Databricks - Classical Machine Learning  |
+| [TBD]                                                   | Azure Machine Learning / Azure Databricks - Computer Vision             |
+| [TBD]                                                   | Azure Machine Learning / Azure Databricks - Natural Language Provessing |
+| [TBD]                                                   | Azure Machine Learning - Classical Machine Learning using R             |
+| [TBD]                                                   | Azure Machine Learning - Edge AI                                        |
+
 
 ## Contributing
 
