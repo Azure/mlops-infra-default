@@ -7,6 +7,15 @@ This repository includes all infrastructure deployed as the outer loop from the 
 The repo itself functions as a standalone entity that agnosticly holds all infrastructure requirements for each individual architectual pattern.
 
 
+## ℹ️ Infrastructure Deployment
+
+Azure serviced deployed:
+
+[Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
+[Azure Machine Learning Compute](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target)
+[Azure Machine Learning Workspace](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace)
+
+
 ## 📐 Pattern Architectures: Key concepts
 
 | Link                                                    | AI Pattern                                                              |
