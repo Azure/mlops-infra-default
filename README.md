@@ -9,7 +9,7 @@ The repo itself functions as a standalone entity that agnosticly holds all infra
 
 ## ℹ️ Infrastructure Deployment
 
-Azure serviced deployed:
+Azure services deployed:
 
 [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 
