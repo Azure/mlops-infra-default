@@ -1,3 +1,5 @@
+![Header](documentation/repositoryfiles/mlopsheader.jpg)
+
 # Azure MLOps (v2) solution accelerator: Infrastructure
 
 This repository includes all infrastructure deployed as the outer loop from the [MLOps v2](https://github.com/Azure/mlops-v2) solution accelerator.
