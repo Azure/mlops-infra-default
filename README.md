@@ -1,4 +1,4 @@
-![Header](https://github.com/Azure/mlops-v2/tree/main/documentation/repositoryfiles/mlopsheader.jpg)
+![Header](documentation/repositoryfiles/mlopsheader.jpg)
 
 # Azure MLOps (v2) solution accelerator: Infrastructure
 
