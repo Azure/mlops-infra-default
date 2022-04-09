@@ -12,7 +12,9 @@ The repo itself functions as a standalone entity that agnosticly holds all infra
 Azure serviced deployed:
 
 [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
+
 [Azure Machine Learning Compute](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target)
+
 [Azure Machine Learning Workspace](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace)
 
 
