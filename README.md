@@ -24,12 +24,17 @@ Azure services deployed:
 | ------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Pattern AML CML](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_CML_Architecture_v0.7.jpg) | Azure Machine Learning - Classical Machine Learning                     |
 | [Pattern AML CV](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_SupervisedCV_Architecture_v0.5.jpg)                                                 | Azure Machine Learning - Computer Vision                                |
-| [TBD]                                                   | Azure Machine Learning - Natural Language Provessing                    |
+| [TBD]                                                   | Azure Machine Learning - Natural Language Processing                    |
 | [TBD]                                                   | Azure Machine Learning / Azure Databricks - Classical Machine Learning  |
 | [TBD]                                                   | Azure Machine Learning / Azure Databricks - Computer Vision             |
-| [TBD]                                                   | Azure Machine Learning / Azure Databricks - Natural Language Provessing |
+| [TBD]                                                   | Azure Machine Learning / Azure Databricks - Natural Language Processing |
 | [TBD]                                                   | Azure Machine Learning - Classical Machine Learning using R             |
 | [TBD]                                                   | Azure Machine Learning - Edge AI                                        |
+
+
+## 👤 Getting started
+
+Please visit [MLOps v2](https://github.com/Azure/mlops-v2) for the initial deployment of this outer loop pattern.
 
 
 ## Contributing
