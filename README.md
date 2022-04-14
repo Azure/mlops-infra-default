@@ -22,8 +22,8 @@ Azure services deployed:
 
 | Link                                                    | AI Pattern                                                              |
 | ------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Pattern AML CML](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_CML_Architecture_v0.7.jpg) | Azure Machine Learning - Classical Machine Learning                     |
-| [Pattern AML CV](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_SupervisedCV_Architecture_v0.5.jpg)                                                 | Azure Machine Learning - Computer Vision                                |
+| [Pattern AML CML](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_CML_Architecture.png) | Azure Machine Learning - Classical Machine Learning                     |
+| [Pattern AML CV](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_SupervisedCV_Architecture.png)                                                 | Azure Machine Learning - Computer Vision                                |
 | [TBD]                                                   | Azure Machine Learning - Natural Language Processing                    |
 | [TBD]                                                   | Azure Machine Learning / Azure Databricks - Classical Machine Learning  |
 | [TBD]                                                   | Azure Machine Learning / Azure Databricks - Computer Vision             |
